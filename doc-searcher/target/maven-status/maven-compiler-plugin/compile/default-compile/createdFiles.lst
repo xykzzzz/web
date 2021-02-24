@@ -1,0 +1,7 @@
+searcher\Parser.class
+servlet\DocSearcherServlet.class
+model\Result.class
+searcher\Index.class
+model\DocInfo.class
+servlet\DocSearcherServlet$1.class
+model\Weight.class
